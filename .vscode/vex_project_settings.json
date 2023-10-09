@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.5.0",
+		"json": 2
+	},
+	"project": {
+		"name": "driverControl",
+		"description": "",
+		"creationDate": "07/10/2023, 23:16:55",
+		"platform": "IQ2",
+		"language": "python",
+		"slot": 1,
+		"sdkVersion": "IQ2_1_0_0_17",
+		"python": {
+			"main": "src/main.py"
+		}
+	}
+}
